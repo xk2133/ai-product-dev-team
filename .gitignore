@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Generated output files (will be recreated by the workflow)
+PRD.md
+DESIGN_SPEC.md
+
+# Logs
+*.log
